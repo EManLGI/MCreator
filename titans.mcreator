@@ -9,6 +9,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "bruh"
+    },
+    {
+      "name": "Gruh",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gruh"
     }
   ],
   "variable_elements": [],
