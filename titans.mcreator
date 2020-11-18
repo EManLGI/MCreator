@@ -1,31 +1,10 @@
 {
   "id_map": {},
-  "mod_elements": [
-    {
-      "name": "BRUH",
-      "type": "block",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "bruh"
-    },
-    {
-      "name": "Gruh",
-      "type": "recipe",
-      "sortid": 2,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "gruh"
-    }
-  ],
+  "mod_elements": [],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {
-      "block.titans.bruh": "BRUH"
-    }
+    "en_us": {}
   },
   "workspaceSettings": {
     "modid": "titans",
