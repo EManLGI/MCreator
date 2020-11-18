@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "titans:blocks/oil_fire",
+    "up": "titans:blocks/oil_fire",
+    "north": "titans:blocks/oil_fire",
+    "east": "titans:blocks/oil_fire",
+    "south": "titans:blocks/oil_fire",
+    "west": "titans:blocks/oil_fire",
+    "particle": "titans:blocks/oil_fire"
+  }
+}
