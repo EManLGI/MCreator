@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "titans:blocks/construct",
+    "up": "titans:blocks/construct",
+    "north": "titans:blocks/construct",
+    "east": "titans:blocks/construct",
+    "south": "titans:blocks/construct",
+    "west": "titans:blocks/construct",
+    "particle": "titans:blocks/construct"
+  }
+}
